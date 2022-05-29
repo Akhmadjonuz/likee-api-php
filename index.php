@@ -1,6 +1,6 @@
 <?php
 
-# Ushbu kod Ahmadjon Dadabayev tomonidan qaytadan yozib chiqarildi. uitc.uz platformasi uchun bajarildi. 
+# Ushbu kod Ahmadjon Dadabayev tomonidan qaytadan yozib chiqarildi. uitc.uz platformasi uchun bajarildi
 # Mualliflik huquqi saqlansin!
 # dadabayev.uz
 # +998902224311
