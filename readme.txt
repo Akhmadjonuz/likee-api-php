@@ -4,7 +4,7 @@
 # +998902224311
 # @Akhmadjon
 
-# This code was rewritten by Ahmadjon Dadabayev. Done for the uitc.uz platform.
+# This code was rewritten by Ahmadjon Dadabayev. Done for the uitc.uz platform
 # Copyright reserved!
 # dadabayev.uz
 # +998902224311
